@@ -1,0 +1,39 @@
+/* I'm really bad at colors gonna keep it white until i get some inspiration */
+
+* {
+    background-color: whitesmoke;
+}
+
+.main-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+ul {
+    margin-top: -10px;
+}
+
+.header {
+    font-family: "Georgia", serif;
+    text-align: center;
+}
+
+.bullet {
+    font-family: "Times New Roman", serif;
+}
+
+div {
+    text-align: center;
+}
+
+.mainlist {
+    display: inline-block;
+    text-align: left;
+}
+
+p {
+    text-align: right;
+}
